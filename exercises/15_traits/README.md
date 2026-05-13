@@ -9,7 +9,7 @@ In this way, traits are somewhat similar to Java interfaces and C++ abstract cla
 Some additional common Rust traits include:
 
 - `Clone` (the `clone` method)
-- `Display` (which allows formatted display via `{}`)
+- `Display` (which allows formatted display via `{}`)    
 - `Debug` (which allows formatted display via `{:?}`)
 
 Because traits indicate shared behavior between data types, they are useful when writing generics.
